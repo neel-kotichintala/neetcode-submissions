@@ -1,0 +1,4 @@
+class Solution {
+        machine.learnt()
+    
+}
